@@ -1,0 +1,50 @@
+/* app/assets/stylesheets/application.css */
+body {
+  font-family: monospace;
+  padding: 1rem;
+}
+
+nav {
+  justify-content: flex-end;
+  display: flex;
+  font-size: 1em;
+  gap: 0.5rem;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+nav a {
+  display: inline-block;
+}
+
+main {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.alert,
+.error {
+  color: red;
+}
+
+.notice {
+  color: green;
+}
+
+section.product {
+  display: flex;
+  gap: 1rem;
+  flex-direction: row;
+}
+
+ body {
+  background-color: #92a8d1;
+}
+
+
+section.product img {
+  border-radius: 50px;
+  flex-basis: 50%;
+  max-width: 50%;
+}
