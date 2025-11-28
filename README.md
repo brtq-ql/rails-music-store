@@ -1,24 +1,39 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My very first touch of Rails. Done in one day, following this tutorial. Some bugs fixed on the way with the help of almighty Internet !
 
-Things you may want to cover:
+https://guides.rubyonrails.org/getting_started.html#introduction
 
-* Ruby version
 
-* System dependencies
+What I've learned from this lab:
 
-* Configuration
+* Rails directory structure and principles
+  
+* MVC architecture basics
 
-* Database creation
+* Creating and editing databases
 
-* Database initialization
+* Interacting with database table via Rails console
 
-* How to run the test suite
+* Routing
 
-* Services (job queues, cache servers, search engines, etc.)
+* Controllers & Actions
 
-* Deployment instructions
+* Adding authentication to allow make changes to the database
 
-* ...
+* Rich text and file upload integration
+
+* Language translation by creating locales/*.yml files
+
+* Mailer for subscribtion
+
+* editing JavaScript and CSS to adjust front end appearance
+
+* Testing and auto fixing inconsistent formating
+
+
+Here are couple of screenshots from the lab:
+
+
+
+
