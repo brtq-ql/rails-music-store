@@ -28,7 +28,7 @@
 #       enabled: "ON"
 
 en:
-  hello: "Hello world"
+  hello: "Welcome to Music Store!"
   products:
     index:  
       title: "Products"
